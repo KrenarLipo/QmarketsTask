@@ -9,9 +9,9 @@
 **LOGIN DETAILS** 
 
 Manager
-Username:   manager@manager.com
-Passwored:  manager
+Username:   admin@krenarbank.com
+Passwored:  Grafika123!
 
-User
-Username: someone@gmail.com
-Password: some
+One for the Users
+Username: richard@gmail.com
+Password: Richard2021!
