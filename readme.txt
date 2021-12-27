@@ -4,7 +4,7 @@
 4. Make a git pull
 5. Run the xampp.exe inside the xampp folder
 6. Activate Apache and MySQl in the Xampp cpanel
-7. Extract the font-awsome icons to display them corrctly
+7. Extract the font-awsome icons, to display them corrctly
 8. Run the script http://localhost/name_of_folder_created_on_step2
 
 **LOGIN DETAILS** 
